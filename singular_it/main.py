@@ -60,18 +60,4 @@ def solve(directions):
 
 
 if __name__ == '__main__':
-    print('Test 1 with ["WESTEN", "OSTEN", "NORDEN", "NORDEN", "SÜDEN"]')
-    directions = ["WESTEN", "OSTEN", "NORDEN", "NORDEN", "SÜDEN"]
-    print(solve(directions))
-
-    print('____\nTest 2 with ["NORDEN", "WESTEN", "OSTEN", "SÜDEN", "NORDEN"]')
-    print(solve(["NORDEN", "WESTEN", "OSTEN", "SÜDEN", "NORDEN"]))
-
-    print('____\nTest 3 with ["NORDEN", "NORDEN", "OSTEN", "OSTEN", "WESTEN", "WESTEN", "SÜDEN", "WESTEN", ]')
-    print(solve(["NORDEN", "NORDEN", "OSTEN", "OSTEN", "WESTEN", "WESTEN", "SÜDEN", "WESTEN", ]))
-
-    print('____\nTest 4 with ["NORDEN"]')
-    print(solve(["NORDEN"]))
-
-    print('____\nTest 5 with ["NORDEN", "SÜDEN"]')
-    print(solve(["NORDEN", "SÜDEN"]))
+    pass
