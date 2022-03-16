@@ -7,11 +7,11 @@
 l = Liste mit Angabe von Richtungen
 
 --------------------------------------------------------------
-####Beispiel:
+#### Beispiel:
 l = [„NORDEN“, „OSTEN“, „WESTEN“, „SÜDEN“, „WESTEN“, „WESTEN“, „NORDEN“]
 
 --------------------------------------------------------------
-####Problemstellung:
+#### Problemstellung:
 
 Die Liste mit Richtungsangaben stellt eine Art Wege-Anleitung dar. 
 Gegensätzliche Richtungen („NORDEN“ <-> „SÜDEN“ und „OSTEN“ <-> „WESTEN“) stellen dabei eine
